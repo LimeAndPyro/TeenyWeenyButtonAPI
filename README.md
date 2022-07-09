@@ -1,2 +1,2 @@
 # TeenyWeenyButtonAPI
-VRCHAT BUTTON API TO EASILY MAKE SOME SMALL ASS BUTTONS.
+VRCHAT Api To Easily Make Some Tiny Ass Buttons.
