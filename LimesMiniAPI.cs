@@ -20,7 +20,7 @@ namespace Discreet.SDK.APIS
         public static string APINAME = "-LimesAPI";
         public QMMiniButton(GameObject parent, Vector3 pos, Vector3 rot, Vector3 scale, string name, string Tooltip, Action btnaction, Sprite Icon = null, Sprite Background = null)
         {
-            MiniButton = LimesFunctions.EasyInstantiate(MiniTemplate, parent);
+            MiniButton = LimesAPIFunctions.EasyInstantiate(MiniTemplate, parent);
             MiniButton.name = name + APINAME;
             MiniButton.GetComponent<RectTransform>().localPosition = pos;
             MiniButton.GetComponent<RectTransform>().localEulerAngles = rot;
