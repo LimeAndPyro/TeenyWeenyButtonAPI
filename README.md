@@ -3,13 +3,12 @@ VRCHAT Api To Easily Make Some Tiny Ass Buttons.
 
 UPDATE TOGGLES FUNTIONALITY ADDED
 
-![Showcase](https://i.imgur.com/tMRv25T.gif)![Showcase](https://i.imgur.com/SgTUDys.gif)
+![Showcase](https://i.imgur.com/tMRv25T.gif) ![Showcase](https://i.imgur.com/SgTUDys.gif)
 
 If You have any questions feel free to contact me By my discord username Lime/Pyro/Creed#1212!
 
 if used throw a note with my discord name in the code :)
 
-![Showcase](https://i.imgur.com/SgTUDys.gif)
 
 ![Example Code](https://i.imgur.com/9ExSMce.png)
 
