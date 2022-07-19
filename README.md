@@ -1,7 +1,7 @@
 # TeenyWeenyButtonAPI
 VRCHAT Api To Easily Make Some Tiny Ass Buttons.
 
-UPDATE TOGGLES FUNTIONALITY ADDED
+!!! UPDATE TOGGLE FUNTIONALITY ADDED !!!
 
 ![Showcase](https://i.imgur.com/tMRv25T.gif) ![Showcase](https://i.imgur.com/SgTUDys.gif)
 
