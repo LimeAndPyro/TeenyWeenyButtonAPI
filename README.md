@@ -11,7 +11,7 @@ if used throw a note with my discord name in the code :)
 
 ![Showcase](https://i.imgur.com/SgTUDys.gif)
 
-![Example Code](https://i.imgur.com/4k7R64R.png)
+![Example Code](https://i.imgur.com/9ExSMce.png)
 
 
 HOW TO USE
